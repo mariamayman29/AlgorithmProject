@@ -1,4 +1,4 @@
-# ALgorrithm
+# ALgorithm Analysis
 #HeapSort
 Time Complexity of HeapSort
 Heap Function:
