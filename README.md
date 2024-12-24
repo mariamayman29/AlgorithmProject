@@ -1,4 +1,5 @@
-# HeapSort
+# ALgorrithm
+#HeapSort
 Time Complexity of HeapSort
 Heap Function:
 In the worst case, Heap is called recursively for log(n) levels of the heap.
